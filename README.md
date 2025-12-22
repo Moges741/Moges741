@@ -10,7 +10,7 @@
 [email-badge]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:mogesse741@gmail.com
 
-I'm a **full-stack developer** and student of Software Engineering at **Jimma University (JIT)**.  
+I'm a **full-stack developer** and Software Engineering student at **Jimma University (JIT)**.  
 I love building **web applications** and learning new technologies.
 
 ---
