@@ -80,8 +80,9 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=moges741&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=moges741&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
 
 
 ---
