@@ -69,17 +69,19 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Moges741&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moges741&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Moges741&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moges741&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moges741&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Moges741&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
