@@ -69,8 +69,8 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Moges741&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moges741&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moges741&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moges741&theme=tokyonight" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## 🧩 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moges741&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moges741&theme=tokyo-night"/>
 </p>
 
 ---
