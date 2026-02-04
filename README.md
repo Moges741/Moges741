@@ -17,11 +17,10 @@
 
 ## 🧠 About Me
 
-💻 Passionate **MERN Stack Developer**  
-🎓 Software Engineering Student at **Jimma University (JIT)**  
-🔥 Love building **real-world web applications**  
-📚 Always learning new technologies & improving problem-solving skills  
-🌍 Goal: Become a world-class Full Stack Engineer  
+- Passionate **MERN Stack Developer**  
+- Software Engineering Student at **Jimma University (JIT)**  
+- Love building **real-world web applications**  
+- Always learning new technologies & improving problem-solving skills  Goal: Become a world-class Full Stack Engineer  
 
 ---
 
@@ -51,20 +50,20 @@
 
 ## 🚀 Current Focus
 
-- 🔥 Building **Full MERN Stack Applications**
-- 🧠 Learning **Advanced React Patterns**
-- ☁ Exploring **Deployment & Cloud (Vercel / Render / AWS later)**
+- Building **Full MERN Stack Applications**
+- Learning **Advanced React Patterns**
+- Exploring **Deployment & Cloud (Vercel / Render / AWS later)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moges741&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moge741&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moge741&theme=tokyonight" />
 </p>
 
 ---
