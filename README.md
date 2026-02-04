@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moge741&theme=tokyonight" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🧩 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moges741&theme=tokyo-night"/>
 </p>
 
 ---
@@ -93,6 +93,7 @@
 📧 Email: mogesse741@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/moges-sisay-265127354  
 📢 Telegram: https://t.me/mogesdemo
+
 🔗 Portfolio: https://mogessisay2.vercel.app/
 
 ---
