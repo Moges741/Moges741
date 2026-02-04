@@ -1,5 +1,14 @@
+<!-- ================= HERO ================= -->
+
 <h1 align="center">Hi 👋, I'm Moges</h1>
-<h3 align="center">🚀 MERN Full Stack Developer | Software Engineering Student @ Jimma University</h3>
+
+<h3 align="center">
+🚀 MERN Full Stack Developer | Software Engineering Student @ Jimma University
+</h3>
+
+<p align="center">
+Building scalable and modern web applications using MongoDB, Express, React & Node.js
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moges-sisay-265127354">
@@ -20,7 +29,8 @@
 - Passionate **MERN Stack Developer**  
 - Software Engineering Student at **Jimma University (JIT)**  
 - Love building **real-world web applications**  
-- Always learning new technologies & improving problem-solving skills  Goal: Become a world-class Full Stack Engineer  
+- Always learning new technologies & improving problem-solving skills  
+- Goal: Become a world-class Full Stack Engineer  
 
 ---
 
@@ -28,7 +38,7 @@
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -41,29 +51,34 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- Building **Full MERN Stack Applications**
-- Learning **Advanced React Patterns**
-- Exploring **Deployment & Cloud (Vercel / Render / AWS later)**
+- Building **Production-Ready MERN Stack Applications**
+- Learning **Advanced React Patterns & Performance Optimization**
+- Exploring **Cloud & Deployment (Vercel • Render • AWS)**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moges741&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+## Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moge741&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moges741&theme=tokyonight" />
 </p>
 
 ---
@@ -76,26 +91,31 @@
 
 ---
 
-## 🌱 Learning Journey
+## Learning Journey
 
 ✔ JavaScript Fundamentals  
-✔ Node.js & Express  
-✔ REST API Development  
-✔ MongoDB & MySQL  
-✔ React Fundamentals  
+✔ Backend API Development  
+✔ Database Design  
+✔ React Frontend Development  
 🚀 Advanced MERN Architecture (In Progress)
 
 ---
 
-## 🤝 Let's Connect
+## Portfolio
 
-📧 Email: mogesse741@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/moges-sisay-265127354  
-📢 Telegram: https://t.me/mogesdemo
-
-🔗 Portfolio: https://mogessisay2.vercel.app/
+🔗 **Live Portfolio:**  
+👉 https://mogessisay2.vercel.app/
 
 ---
+
+## Let's Connect
+
+- Email: mogesse741@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/moges-sisay-265127354  
+- Telegram: https://t.me/mogesdemo  
+
+---
+
 
 
 > "First, solve the problem. Then, write the code." – John Johnson
