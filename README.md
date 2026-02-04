@@ -69,9 +69,10 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Moges741&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moges741&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---
@@ -79,7 +80,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moges741&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=moges741&theme=tokyonight&hide_border=true" />
 </p>
 
 
