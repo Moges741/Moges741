@@ -32,7 +32,6 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 - Goal: Become a world-class Full Stack Engineer  
 
 ---
-
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
