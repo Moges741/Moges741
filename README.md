@@ -46,7 +46,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 </p>
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### 🛠 Tools & Environment
