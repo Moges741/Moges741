@@ -44,7 +44,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-###  🗄 Database
+### 🗄 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
@@ -107,7 +107,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## Portfolio
 
 🔗 **Live Portfolio:**  
-👉 [[https://dev-moges.me/](https://dev-moges.me/)
+👉 [https://dev-moges.me/](https://dev-moges.me/)
 
 ---
 
