@@ -52,7 +52,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 
 ### 🛠 Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,prisma" />
 </p>
 
 ---
