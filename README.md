@@ -42,7 +42,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express, nestjs" />
 </p>
 
 ### Database
